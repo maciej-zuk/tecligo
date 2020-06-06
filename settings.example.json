@@ -1,0 +1,21 @@
+{
+  "basePath": "/path/to/your/Terraria/Content/Images/",
+  "serverPath": "https://server.com/path/",
+  "socketPort": 7778,
+  "socketEndpoint": "/live",
+  "terrariaHost": "localhost",
+  "terrariaPort": 7777,
+  "terrariaPass": "test",
+  "mapPath": "/path/to/your/Terraria/Worlds/World.wld",
+  "mapRendering": false,
+  "mapRegion": {
+  	"x0": 0,
+  	"y0": 0,
+  	"x1": 0,
+  	"y1": 0
+  },
+  "tileOutputPath": "path/to/output/map/tiles/%d_%d.png",
+  "discordBot": false,
+  "discordBotToken": "ABCXYZ123",
+  "discordBotChannelId": "000000000000000000"
+}

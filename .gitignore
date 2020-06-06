@@ -1,0 +1,10 @@
+main
+*.wld
+cpu.prof
+map/tiles/*
+go.sum
+render*
+helper*
+map/player*png
+tecligo
+settings.json
