@@ -53,7 +53,7 @@ func (c *Connection) Connect() {
 		go discordBotRoutine(c)
 	}
 	log.Println("Spawning")
-	c.Send(1, TnString("Terraria228"))
+	c.Send(1, TnString("Terraria230"))
 	c.exitWg.Wait()
 	log.Println("Exit (tenet)")
 }
